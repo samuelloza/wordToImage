@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordToImage", "WordToImage\WordToImage.csproj", "{6349E950-8085-42F9-8FCE-9E261BF09C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6349E950-8085-42F9-8FCE-9E261BF09C24}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6349E950-8085-42F9-8FCE-9E261BF09C24}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6349E950-8085-42F9-8FCE-9E261BF09C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6349E950-8085-42F9-8FCE-9E261BF09C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28ED4990-4A13-45F3-8CFE-DBD3A86D3EDE}
+	EndGlobalSection
+EndGlobal
