@@ -26,7 +26,7 @@ Dentro de Word seleccione **Word -> Imagen**
 
 y a continuación  **Convertir** y seleccione el directorio donde se guardarán  las imágenes
 
-![Paso 2](https://github.com/starsaminf/wordToImage/blob/master/Paso2.png " ")
+![Paso 2](https://github.com/starsaminf/wordToImage/blob/master/paso2.png " ")
 
 
 Cuando el proceso termine se abrira el directorio donde se guardaron las imágenes
