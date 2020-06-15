@@ -10,7 +10,7 @@ muchos celulares no pueden abrir documentos Word o PDF, es un problema mandar ta
 
 ## Instalación
 
-Descarga la versión beta [Descragrar](https://github.com/starsaminf/wordToImage/releases/download/v1.0.0.1-beta/WordToImage_1_0_0_1.zip)  
+Descarga la versión beta [Descragrar](https://github.com/starsaminf/wordToImage/releases/download/v1.0.0.1-beta/v1.0.0.1-beta.zip)  
 
 Abra el archivo comprimido y abrir **setup.exe**
 
